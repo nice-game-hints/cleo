@@ -1,7 +1,7 @@
 ---
 title: How to navigate the island
 keywords: cleo, bar, working with dad, captain avery and a death by drowning
-order: 10
+order: 70
 ---
 
 That was quite a nasty blackout - and wow, there's so much to see on this island!
