@@ -1,5 +1,5 @@
 ---
-title: Chapter One
+title: Chapter One: Captain Avery and a Death by Drowning
 keywords: cleo, bar, working with dad, captain avery and a death by drowning
 order: 10
 ---

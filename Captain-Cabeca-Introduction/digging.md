@@ -4,31 +4,51 @@ keywords: captain cabeca, first puzzle, cleo dig puzzle
 order: 10
 ---
 
-The game begins with an introduction to Captain Cabeca as you're taught the controls. He's looking for buried treasure.
+The game begins with an introduction to Captain Cabeca as you're taught the controls. 
+
+You need to find the treasure that he's come to this island to seek.
 
 # I have a shovel
-You can dig up the dirt in the area.
+You can use it to dig up the dirt in the area.
 
 # How?
-Right-click on the shovel while standing atop the dirt patches to dig them up. Equipped items' borders will turn orange when you stand near something they can interact with. ^[Dig three times to make progress.]
+Right-click while standing atop a dirt patch to dig it up. 
+
+Equipped items' borders in the bottom right corner of the screen will turn orange when you stand near something they can be used with.
 
 # Digging in!
-Skeletons have appeared. Click the middle mouse button to open your bag, and left click on the cutlass to equip it.
+Third time clearly wasn't a charm - skeletons!
+
+As the game instructs you to, click the middle mouse button to open your bag and left click on the cutlass to equip it.
 
 # Armed to the teeth!
-Approach the skeletons and swing your sword at them. ^[Swing by right-clicking rapidly while it's equipped. The skeletons will take three hits each to kill.]
+Approach the skeletons and swing your sword at them. ^[The skeletons will take three hits each to kill.]
 
-# All that glitters is gold?
-The skeletons are dead and a glimmering light has appeared. Is it something buried? ^[Examine it by approaching and left-clicking.]
+Swing by right-clicking rapidly while it's equipped.
 
-# Digging in, again!
-Using the shovel on the loosened earth has put the Kalimba in your bag. ^[Equip it and left-click.]
+# They're all dead!
+What's that on the ground? You can examine it by approaching and left-clicking.
 
-# Time for a sea shanty?
-The kalimba can be used to play a tune. ^[The burn holes in your map aren't coincidental. Neither are the numbers on the left.]
+## Okay, as you said, it's shiny. Now what?
+Open your bag again using the middle mouse button and equip your shovel. Just like you did before, dig in the shiny spot by right clicking.
 
-## What notes do I play?
+# What is this?
+You've just got a new item in your inventory - why not open it and right click?
+
+# Can I play Wonderwall?
+Well, maybe, but shouldn't you look at everything in your inventory for clues?
+
+^[Don't forget about the item bound to your 'tab' key.]
+
+# What should I be looking for?
+On your map, does anything stand out? 
+
+Additional hint: ^[Does anything on the map match anything on the Kalimba?]
+
+## Which notes do I play on the Kalimba?
 C-E-A-B-E, in that order. ^[Only the first 'E' on the Kalimba - the second is not used.]
 
-# Treasure!
-Take the treasure you came here for - Ignatz's will-o-the-wisp.
+# What now?
+Take the treasure you came here for!
+
+^[It's Ignatz' will-o-the-wisp, glowing, you really can't miss it.]
