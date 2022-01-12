@@ -1,5 +1,5 @@
 ---
-title: Chapter Two: The Will o' Wisp of the Sunken Gallery
+title: Chapter Two
 keywords: cleo, Avery Allwick, cleo parrot, The Will o' Wisp of the Sunken Gallery
 order: 20
 ---
