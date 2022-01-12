@@ -1,6 +1,7 @@
 ---
 title: How to dig up the treasure
 keywords: captain cabeca, first puzzle, cleo dig puzzle
+order: 10
 ---
 
 The game begins with an introduction to Captain Cabeca as you're taught the controls. He's looking for buried treasure.

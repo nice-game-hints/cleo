@@ -1,7 +1,7 @@
 ---
 title: Working in the bar
 keywords: cleo pirate's tale, bar puzzle
-order: 10
+order: 20
 ---
 
 Ew, shrimp heads should never be thrown at someone! Good thing it was just a cocktail umbrella... probably.
