@@ -1,9 +1,9 @@
 ---
-title: A Great Example
-keywords: great example, spoiler free guide
-author: Juho Rutila
-praise: https://www.buymeacoffee.com/jrutila
+title: Cleo - A Pirate's Tale
+keywords: cleo, guide, cleo a pirates tale, pirates tale, pirate game, cleo guide, cleo walkthrough, spoiler free guide
+author: Kieron West
+praise: https://www.buymeacoffee.com/WestyDesign
 ---
 
-A Great Example is the latest and coolest point'n'click game to make example guides of.
-This text is shown to the readers when they got to the Great Example NGH page.
+Get ready to set sail, landlubbers! A great adventure on the high seas awaits you.
+Select a guide, or walk the plank!
