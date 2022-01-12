@@ -29,7 +29,7 @@ Well, the original owner probably doesn't want it anymore - take the strange log
 
 ## How do I loosen this hand's grip?
 Click the fingers in this order: Ring Finger, Index Finger, Ring Finger, Little Finger, Index Finger, Ring Finger.
- Click the question mark for a picture labelling the fingers. ^[![This picture text is not shown](HandPuzzles.png)]
+ Click the question mark for a picture labelling the fingers. ^[![This picture text is not shown](HandPuzzle.png)]
 
 # Woah!
 A cutscene will rearrange the kitchen. Get a closer look at the changes. ^[Read the bloody writing on the wall.]
