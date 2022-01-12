@@ -4,33 +4,59 @@ keywords: cleo pirate's tale, bar puzzle
 order: 20
 ---
 
-Ew, shrimp heads should never be thrown at someone! Good thing it was just a cocktail umbrella... probably.
+You're a barmaid - serving people alcohol is part of the job description.
 
-# Serving the clientele
-Butthair Pete wants a bottle. ^[The bottle he wants is, unsurprisingly, behind the bar.]
+# Who am I serving?
+Butthair Pete, the man your father was just talking to. 
 
-# Order up!
-Right-click while facing your dad to give Pete the bottle.
+^[He's on the other side of the bar, but left-clicking while facing your dad will count as interacting with him.]
 
-# Another round!
-Dad wants you to bring a bottle of rum to Granny Gabble. ^[The bottle you must deliver is right next to the first one you picked up.]
+# And what am I serving him?
+Rum, of course!
 
-## Where is Granny Gabble?
-On the docks, accessed by going left of the bar. ^[Get out from behind the bar by left-clicking when facing the counter flap.]
+## Where is the rum?
+Directly behind where you started, two bottles are side-by-side and can be picked up by left clicking on them.
+
+^[Serve it by right-clicking while facing your dad.]
+
+# What next?
+Dad wanted you to deliver a bottle of rum to Granny Gabble.
+
+# Where is the rum?
+In the same spot as the first bottle, behind the bar and close to your starting point.
+
+# Where is Granny Gabble?
+She's not inside the bar.
+
+Struggling to get out from behind the counter? ^[Left-click when facing the counter flap on the right.]
+
+## I've looked everywhere. Where is Granny Gabble?
+Outside of the bar, on the docks facing south - go to the far left of the bar and exit.
+
+Don't forget why you were looking for her.
 
 # No rest for the wicked
-There's not much to do out on the docks, so when you've given Granny Gabble the rum, go back inside the bar and talk to dad.
+Dad wants you to help out in the kitchen.
 
-# Hungry?
-Herbert wants six fish in total from the net. ^[Approach the net at the top of the room and left-click to take a fish.]
+# Where?
+On the right side of the bar, through a door.
+
+# What am I doing here?
+Talk to the chef, Herbert, for instructions that you'll need to repeat.
+
+^[You'll need to fetch him six fish from the net.]
 
 # Quite unsanitary!
-Well, the original owner probably doesn't want it anymore - take the strange logbook and pry the fingers off it! ^[Click the fingers, and note that lifting some will press down others.]
+Well, the original owner of this logbook probably doesn't need it anymore - but he's got quite a grip!
 
-## How do I loosen this hand's grip?
-Click the fingers in this order: Ring Finger, Index Finger, Ring Finger, Little Finger, Index Finger, Ring Finger.
+## How do I pry the logbook from this cold, dead hand?
+Click the fingers, and note that lifting some will press down others.
 
-Click the question mark for a picture labelling the fingers. ^[ ![Hand diagram](HandPuzzle.PNG)]
+For a diagram labelling the fingers: ^[ ![Hand diagram](HandPuzzle.PNG)]
 
-# Woah!
-A cutscene will rearrange the kitchen. Get a closer look at the changes. ^[Read the bloody writing on the wall.]
+For an exact order to click the fingers in: ^[Ring Finger, Index Finger, Ring Finger, Little Finger, Index Finger, Ring Finger.]
+
+# Alright, I have the book.
+The kitchen's had a makeover - why not get a closer look? 
+
+^[Read the bloody writing on the wall.]
