@@ -51,3 +51,4 @@ Laverne McMorris - ^[10 of Hearts]
 Ophelia Thompson - ^[36 of Spades]
 
 # What the hell is a check digit?
+TODO: Fill this in when I find out what the hell a check digit is.

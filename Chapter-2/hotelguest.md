@@ -26,4 +26,3 @@ Bait and stamps won't cut it - do you remember what she wanted as a souvenir?
 
 # Was it...
 From a far-off island, yes. See [this guide](HighSeas/index.md) for travelling the high seas.
-
