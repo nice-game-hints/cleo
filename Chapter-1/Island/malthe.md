@@ -1,63 +1,52 @@
 ---
-title: How to grow a mustache
-keywords: cleo, mustache, swamp monster, telmi swamp
+title: How to fix the machine
+keywords: cleo, mustache, swamp monster, telmi swamp, malthe seus, cocktail machine
 order: 40
 ---
 
-A friendly face in the swamp is having trouble growing hair.
+There's evidence that another person is somewhere on this island.
 
-# I missed the part where that's my problem.
-Ah, of course - the shrimp empire at the behest of Shrimpus Maximus.
+# What? All I've found are mythical creatures and talking animals!
+Have you explored the southern part of the island?
 
-Your new objective is to take out that beaver you may have seen when exploring the island earlier.
+# Yes.
+Then you've met Malthe Seus, captain of the Attempt 38, and unfortunate owner of a broken cocktail machine.
 
-# Where do I even begin?
-You've got a broken lance now - what does it look like?
+Did you get an item from the boat?
 
-# A weapon?
-Well, for shrimp, yes - but what can it do for a human?
+# No?
+He spat something out when you surprised him.
 
-## Knitting?
-No, lock picking! This is a video game! Go pick the locked drawer in the tent!
+# I don't see anything...
+Look closely at the ground.
 
-# Stealth Increased!
-You got the socks and [Malthe's cocktail bible.](malthe.md)
+## Pixels, pixels everywhere, and not a hint to... drink?
+There's a jawbreaker candy on the ship, a few steps to the right of where Malthe's standing. He spat it out when you surprised him.
 
-# TWENTY?
-Yep. You saw a picture of one - find twenty of those.
+# Okay, gross, but what about the cocktail machine?
+It's missing a lever. Have you found anything that could fix it?
 
-# Where should I start?
-They're all over the island - why not take this opportunity to explore?
+# Like what?
+Well, something sturdy could work well. What about wood?
 
-## Can you just tell me where to find the first ten?
-If you insist!
+# And where would I get a sturdy bit of wood?
+Explore the eastern part of the island a bit more - and [check out these hints](shrimp.md) when you've got a good idea of where to find wood.
 
-Number one - ^[East of the siren. You'll need to go around her pond.]
-Number two - ^[North of the first flower, near the 'Telmi Swamp' sign]
-Number three - ^[East of the same sign.]
-Number four - ^[Right next to number three.]
-Number five - ^[East of the previous two flowers, near two barrels.]
-Number six - ^[South-east of the previous flower, next to a tree.]
-Number seven - ^[Near the sixth flower, on the other side of the tree.]
-Number eight - ^[North of a the tent on the east side of the island.]
-Number nine - ^[North of the previous flower - directly in your path.]
-Number ten - ^[Right next to the previous flower.]
+## I have sourced a sturdy bit of wood.
+Great, that wooden leg will work perfectly! Legs are quite similar to levers, if you think about it.
 
-## Got those - the other ten?
-Sure, but remember to keep the landmarks in mind!
+# If you say so. Machine's fixed, now what?
+Have a play around with it. It's a cocktail machine after all, you can mix and match ingredients as you please.
 
-Number eleven - ^[When you have the option of going west or north on the east side of the island, go west to find this flower.]
-Number twelve - ^[North-west of the previous flower.]
-Number thirteen - ^[Following the path north and out of the swamp reveals this flower.]
-Number fourteen - ^[Even further north, on the peak of the island, is this flower.]
-Number fifteen - ^[In a cluster southeast of the previous flower.]
-Number sixteen - ^[Right next to the previous flower.]
-Number seventeen - ^[Also right next to the previous flower.]
-Number eighteen - ^[Directly east of the three-flower cluster.]
-Number nineteen - ^[Backtracking slightly, this flower is directly north of the 'Telmi Swamp' sign.]
+# This machine doesn't know many recipes.
+Do you have any items that could teach you cocktail recipes?
 
-# And the twentieth?
-You saw it when you picked up number eighteen. How might you reach that island?
+## ...Would a severed hand teach me cocktail recipes?
+No, but the cocktail bible you got along with the socks would!
 
-## There's no path!
-Look closely at the water - some of the darker bits can be [walked across.](shrimp.md)
+Remember that some items are only usable by pressing TAB - but they must still be equipped in your inventory.
+
+^[Turn the pages by clicking on their edges.]
+
+# Fascinating - but why would I make any of these?
+Have you fully explored the island? [The swamp, perhaps?](moustache.md)

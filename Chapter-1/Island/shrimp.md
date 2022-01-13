@@ -9,32 +9,47 @@ So, you tried to get the 20th flower and ended up with a sore foot. What's up wi
 # I have found the source of the foot pain.
 Ah, of course - the shrimp empire at the behest of Shrimpus Maximus.
 
-Your new objective is to take out that beaver you may have seen when exploring the island earlier.
+Your new objective is to effectively assassinate the beaver that has been troubling the Shrimpire.
 
-# Where do I even begin?
-You've got a broken lance now - what does it look like?
+# Beaver? Where?
+You may have seen him when exploring the island earlier.
+
+# One more hint?
+Beavers like to build dams - where would the best place to build one be on an island like this?
+
+## Can you tell me where the beaver is?
+North of the tent, a rocky path takes you up to a cliff; this cliff overlooks the pesky beaver.
+
+Keep this location in mind, as it's the only place you can get access to the beaver.
+
+# Alright, but what's the deal with the shrimp?
+How am I supposed to know? I just write the hints, dude.
+
+Anyway, he gave you a broken lance - what does it look like?
 
 # A weapon?
 Well, for shrimp, yes - but what can it do for a human?
 
 ## Knitting?
-No, lock picking! This is a video game! Go pick the locked drawer in the tent!
+No, lock picking! This is a video game, after all! Go pick the locked drawer in the tent!
 
 # Stealth Increased!
-You got the socks and [Malthe's cocktail bible.](malthe.md)
+You got the socks and Malthe's cocktail bible.
 
-If that name is unfamiliar, try exploring the island some more.
+If the name 'Malthe' is unfamiliar, try [exploring the island some more.](malthe.md)
 
 # Uh, socks? In a drawer?
-Don't question it - instead, question what you could do with them.
+Yes, socks go in a drawer. Where else do you put clothes?
 
 # A hint, please?
-They're quite a distracting colour.
+These socks are quite a distracting colour. 
+
+Bonus hint: ^[Did you find anything that could be distracted?]
 
 ## A less cryptic hint, please?
-Put the socks on the washing line to distract the crab.
+Put the socks on the washing line near the tent to distract the naughty crab.
 
-^[This gives you the opportunity to grab the tights from the washing line.]
+^[This gives you an opportunity to take the tights from the washing line.]
 
 # Now what?
 It always helps to know your enemy. Don't you have a good vantage point near here?
@@ -42,21 +57,32 @@ It always helps to know your enemy. Don't you have a good vantage point near her
 # I see the beaver!
 Doesn't that forked tree look suspicious?
 
+^[You must be at the top of the jagged rocky path to see the beaver and tree.]
+
 ## How can a tree look suspicious?
-Like it can be used as a weapon! Put the tights between the branches, and you've basically made a slingshot.
+Like it has warfare potential! Put the tights between the branches, and you've basically made a slingshot.
 
-If you have a projectile, use it here too - if not, [explore the island for one.](malthe.md)
+Now, what could be launched with a slingshot?
 
-# Target down!
+# Hmm, I don't have anything projectile-y.
+Have you [fully explored the island?](malthe.md)
+
+If so, think about what the hardest item in your inventory would be.
+
+## Tell me what to launch.
+The jawbreaker that Malthe Seus spat out - it's a bit hard to see, but is on the deck of his ship.
+
+Approach the makeshift slingshot with the tights and jawbreaker to set up the slingshot and fire it at the beaver.
+
+#Target down!
 You should share the good news with a friend who was eager to see the beaver fall.
 
 # We are victorious!
 And to the victor goes the twentieth flower that the Siren wanted!
 
-# What else is over here?
-There's not much to see - but get a close look at everything on this island.
+Make sure to explore this new island thoroughly - ^[The flowers aren't the only thing on it.]
 
-## I'm coming away mostly empty handed...
+## And yet, I'm coming away mostly empty handed...
 Aside from the twenty-six extra folo flowers, there's a pile of wood where the beaver once was.
 
 Get a close look at the wood pile to find a wooden leg.
