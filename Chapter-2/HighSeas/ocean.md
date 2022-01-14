@@ -5,11 +5,15 @@ order: 20
 
 ---
 
+Like I said, time to set sail!
+
 # Setting sail? How?
 You know someone with a boat.
 
 # Where should I start?
-You've got a whole ocean to explore - why not look around as you please?
+If you're still looking for the boat, try heading back to Ingo and looking around.
+
+When you find it, you've got a whole ocean to explore - why not look around as you please?
 
 ## Can I get some island-specific guides?
 These guides should be followed in order.

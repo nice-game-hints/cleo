@@ -31,7 +31,7 @@ Do you have anything that could block or fill those holes?
 Corks! You might find some closer to civilisation.
 
 ## Where are the corks?
-In the hotel, promintently displayed on the far left.
+In the hotel, prominently displayed on the far left.
 
 # Is there anything else to do on the island?
 Fishing! [This guide](/Chapter-2/fishing.md) can tell you more.

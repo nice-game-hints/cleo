@@ -23,7 +23,7 @@ You should talk to the old man for a hint on what to do next.
 Yes! You should look around.
 
 ## What should I be taking away from the island?
-A lobster claw from the bucket left of the old man, and 'Sushi Madness Colored Pencils' pencils from the neraby children's table.
+A lobster claw from the bucket left of the old man, and 'Sushi Madness Colored Pencils' from the nearby children's table.
 
 # What do I do with the lobster claw?
 Its description in your inventory may prove useful.
