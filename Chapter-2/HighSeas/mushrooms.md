@@ -34,7 +34,7 @@ Corks! You might find some closer to civilisation.
 In the hotel, promintently displayed on the far left.
 
 # Is there anything else to do on the island?
-Fishing! [This guide](Chapter-2/fishing.md) can tell you more.
+Fishing! [This guide](/Chapter-2/fishing.md) can tell you more.
 
 # I have put a cork in the hole. Now what?
 It means that the mushroom can't get back - where else might you find mushrooms?
