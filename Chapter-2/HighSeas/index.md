@@ -4,6 +4,6 @@ keywords: cleo, Avery Allwick, cleo parrot, The Will o' Wisp of the Sunken Galle
 order: 70
 ---
 
-After messing around on McInally island for a while, you've likely realised that some puzzles and items must be used or solved elsewhere.
+After messing around on McInally Island for a while, you've likely realised that some puzzles and items must be used or solved elsewhere.
 
 Time to set sail.

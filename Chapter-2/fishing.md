@@ -9,7 +9,10 @@ You've got the rod, you've got the bait - fishing time!
 You can change your line's colour by using the top set of arrows, and change your bait by using the bottom set of arrows.
 
 # Where can I use the fishing rod?
-Below the lighthouse, a stone path takes you down to a fishing spot.
+
+Spot 1 - ^[Below the lighthouse, a stone path takes you down to a fishing spot.]
+Spot 2 - ^[Anywhere on the open ocean! You won't find much here.]
+Spot 3 - ^[Island A4]
 
 # I keep catching boots!
 You can change your line's colour by using the top set of arrows.

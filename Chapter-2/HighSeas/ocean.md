@@ -7,3 +7,11 @@ order: 20
 
 # Setting sail? How?
 You know someone with a boat.
+
+# Where should I start?
+You've got a whole ocean to explore - why not look around as you please?
+
+## Can I get some island-specific guides?
+
+[Island A4](mushrooms.md)
+

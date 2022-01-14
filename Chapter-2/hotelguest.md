@@ -28,4 +28,4 @@ Talk to her, and you'll need to wager an item.
 Bait and stamps won't cut it - do you remember what she wanted as a souvenir?
 
 # Was it...
-Not from this island, no - see [this guide](HighSeas/index.md) for assistance with travelling the high seas.
+Something far away, yes - see [this guide](HighSeas/index.md) for assistance with travelling the high seas.
