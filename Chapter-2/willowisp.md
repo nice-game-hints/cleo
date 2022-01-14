@@ -4,7 +4,7 @@ keywords: cleo, Avery Allwick, cleo parrot, McInally Palms
 order: 30
 ---
 
-McInally Palms is a bit nicer than the previous island - it even comes with a warm welcome from the booth worker Ingo.
+McInally Palms is a bit nicer than the previous island - it even comes with a warm welcome from the booth worker Ingo, and even a hotel!
 
 # Where should I begin exploring?
 After talking to Ingo, that's up to you!
@@ -47,19 +47,19 @@ Check your Cocktail Bible - it's still in your inventory, and one of the cocktai
 ## What else does that cocktail require?
 
 Base: Salt Lick Smitty - Tequila
-Modifier: Sherbe Powder
+Modifier: Sherbet Powder
 Flavor: Lemon
 
-# Who might want this 'Risky on the docks' cocktail?
+# Who might want this 'Risky On The Docks' cocktail?
 Have you thoroughly talked to everyone on the island?
 
 # There's only a pale woman and Ingo. I don't want to talk to Ingo.
-Try entering a few buildings.
+Try heading indoors.
 
 # None of these people seem thirsty.
 Enter the McInally Hotel, and talk to everyone in the lobby.
 
-Remember that the 'Risky on the docks' cocktail has a clue in its name.
+Remember that the 'Risky On The Docks' cocktail has a clue in its name.
 
 ## I'd like to know who needs to drink this cocktail.
 The hotel guest writing in her travel diary needs to [live a little.](hotelguest.md)

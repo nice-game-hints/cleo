@@ -7,13 +7,13 @@ order: 40
 McInally Hotel apparently has a great exhibit on the life and times of Kraken Fodder's creator.  
 
 # I'd like to see it!
-Well, one small problem - only hotel guests can visit the exhibit.
+Well, one small problem - only hotel guests can view the exhibit.
 
 # Can I just walk in anyway?
 No, the receptionist will ask your name.
 
 # I'm cleo!
-Is cleo a registered guest at the hotel
+Is cleo a registered guest at the hotel?
 
 # ...no.
 How will you find out the guests' names?
@@ -50,5 +50,23 @@ Nora Belle Lewis - ^[69 of Diamonds]
 Laverne McMorris - ^[10 of Hearts]
 Ophelia Thompson - ^[36 of Spades]
 
-# What the hell is a check digit?
-TODO: Fill this in when I find out what the hell a check digit is.
+# Let me see that exhibit!
+Not so fast - the receptionist now wants to know your check number.
+
+You do know what a check number is, don't you?
+
+# Um... 
+I thought not. You may need this next hint.
+
+## Tell me where to find the guest's check number.
+On another island! Have a look at [this guide](HighSeas/index.md) for assistance with travelling the high seas.
+
+# I have a check number now.
+Return to the hotel and tell the receptionist your number when prompted.
+
+## What's my check number?
+
+Madison F. Walker - Room Number ^[3 of Clubs] - Check Number ^[]
+Nora Belle Lewis - Room Number ^[69 of Diamonds] - Check Number ^[]
+Laverne McMorris - Room Number ^[10 of Hearts] - Check Number ^[]
+Ophelia Thompson - Room Number ^[36 of Spades] - Check Number ^[]

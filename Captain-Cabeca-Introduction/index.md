@@ -8,4 +8,4 @@ Captain Cabeca's engaging in some classic pirate behaviour - [digging for buried
 
 This part of the game acts as a tutorial, teaching you the controls that you'll be using.
 
-You need to find the treasure that he's come to this island to seek by using his all of his tools - even those that seem useless at first glance.
+You need to find the treasure that he's come to this island to seek by using all of his tools - even those that seem useless at first glance.
