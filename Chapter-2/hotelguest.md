@@ -33,7 +33,9 @@ Something far away, yes - see [this guide](HighSeas/index.md) for assistance wit
 ## I have something she'd be interested in, now.
 Great, you got the glowing mushrooms - wager them and start a game of kraken fodder!
 
-It may be worth saving before agreeing to duel, as she's harder to beat than Erik! 
+If you'd like a reminder on how to play Kraken Fodder, see [this guide.](/Chapter-1/krakenfodder.md)
+
+It may be worth saving before agreeing to duel, as she's harder to beat than Erik!
 
 SPOILER - ^[You won't actually lose anything when being defeated, and can lose as many times as you need.]
 
