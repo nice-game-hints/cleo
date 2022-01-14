@@ -41,4 +41,4 @@ The beach, where you met the pale woman!
 A room card - pick it up and have a look at it in your inventory.
 
 # Is this what I think it is...?
-Damn right - time to see the [exhibit!](exhibit.md)
+Damn right - time to see the [exhibit!](Chapter-2/exhibit.md)
