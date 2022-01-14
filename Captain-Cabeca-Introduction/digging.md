@@ -6,9 +6,9 @@ order: 10
 
 The game begins with an introduction to Captain Cabeca as you're taught the controls. 
 
-You need to find the treasure that he's come to this island to seek.
+You need to discover the treasure that he's come to this island to find.
 
-# I have a shovel
+# Great! I have a shovel!
 You can use it to dig up the dirt in the area.
 
 # How?

@@ -14,10 +14,10 @@ Butthair Pete, the man from the bar. He might be able to tell you what to do.
 # What is there to see?
 There's bound to be a crew on (or in) this ship. See what they have to say.
 
-## This guy's just talking about knots?!
+## This guy's just talking about knots!
 Go downstairs and talk to the other crew member.
 
-# At least he's not talking about knots!
+# At least this one's not talking about knots!
 But he wants a new opponent to play Kraken Fodder with, and told you who might have cards you can borrow.
 
 ## I wasn't paying attention!
@@ -29,4 +29,4 @@ It'll take all day to brute-force guess who made the knot he quizzed you about.
 ^[This puzzle is randomised.]
 
 # Guesswork sucks!
-Tell him you'll be back in a moment if you don't want to guess, and [look for clues.](quiz.md)
+Tell him you'll be back in a moment, and [look for clues.](quiz.md)

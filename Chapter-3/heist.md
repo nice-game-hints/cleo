@@ -1,7 +1,7 @@
 ---
 title: Pulling off the heist
 keywords: cleo, Avery Allwick, atilantis, what is atilantis code, pambo island, A Coin on Pambo Island, how to get kraken fodder set
-order: 50
+order: 80
 ---
 
 Finally back on dry(ish) land! But with the curator gone, who will show you these exquisite sights?

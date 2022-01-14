@@ -13,7 +13,7 @@ But not-so-friendly conversation...
 Have you talked to (or tried to talk to) everyone in the bar? Searched it top to bottom?
 
 # I've talked to you-know-who.
-It's somber down here - and the glowing halo means one thing.
+It's somber down here - and the halo suddenly starting to glow can only mean one thing.
 
 ## What?
 You need to return to the archive, opposite Teddy's.

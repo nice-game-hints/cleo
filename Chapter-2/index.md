@@ -5,4 +5,3 @@ order: 20
 ---
 
 Things have certainly changed a bit since chapter one - with something that's starting to resemble a merry crew, your first task is to [search McInally Palms for the will-o-wisp.](palms.md)
-

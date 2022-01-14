@@ -45,4 +45,4 @@ Part 2 of solution: ^[Look for a word that matches Knot Joe's description.]
 Remember the name that the paper lines up with, and go impress Knot Joe!
 
 # The name I settled on wasn't an option!
-Then you either ended up on the wrong name, or Knot Joe changed his description. Try, try again!
+Then you either settled on the wrong name, or Knot Joe changed his description. Try, try again!

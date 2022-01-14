@@ -5,4 +5,3 @@ order: 30
 ---
 
 The crew isn't so merry anymore - you should [talk to Avery](pambo.md) to see how dire the situation is.
-

@@ -1,6 +1,6 @@
 ---
 title: Working in the bar
-keywords: cleo pirate's tale, bar puzzle
+keywords: cleo pirate's tale, bar puzzle, how to get the hand off the book cleo
 order: 20
 ---
 

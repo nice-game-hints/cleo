@@ -10,7 +10,7 @@ You're dead again, that's also something. But hell hath no fury like a Cleo scor
 This time, you can't be spotted - so what can you use on this side of the room to help?
 
 # Hmm..
-You could'nt do much in here when Archibald was around - try interacting with everything you see.
+You couldn't do much in here when Archibald was around - try interacting with everything you see.
 
 ## What am I looking for?
 The file near the door - get a closer look, and click anything that seems useful.
@@ -59,5 +59,5 @@ You'll need to remember the symbols / numbers, and type them into the keypad bef
 ## She's turning around too fast - what do I need to type in?
 7-1-4-1-3-6-5.
 
-# Thanks for playing!
+# Thanks for playing and reading!
 These hints have been written by Kieron West- thanks for reading! I hope you enjoyed them, and the game!

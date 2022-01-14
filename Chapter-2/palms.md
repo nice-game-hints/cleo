@@ -4,7 +4,7 @@ keywords: cleo, Avery Allwick, cleo parrot, McInally Palms
 order: 30
 ---
 
-McInally Palms is a bit nicer than the previous island - it even comes with a warm welcome from the booth worker Ingo, and even a hotel!
+McInally Palms is a bit nicer than the previous island - it comes with a warm welcome from the booth worker Ingo, AND a hotel! Oh, and a massive graveyard, but that's a bit grim.
 
 # Where should I begin exploring?
 After talking to Ingo, that's up to you!
