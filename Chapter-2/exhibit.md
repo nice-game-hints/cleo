@@ -1,7 +1,7 @@
 ---
 title: How to access the hotel's special exhibit
 keywords: cleo, Avery Allwick, cleo parrot, McInally Palms, McInally hotel, how to see exhibit cleo
-order: 40
+order: 60
 ---
 
 McInally Hotel apparently has a great exhibit on the life and times of Kraken Fodder's creator.  
@@ -51,22 +51,36 @@ Laverne McMorris - ^[10 of Hearts]
 Ophelia Thompson - ^[36 of Spades]
 
 # Let me see that exhibit!
-Not so fast - the receptionist now wants to know your check number.
+Not so fast - the receptionist now wants to know your check digit.
 
-You do know what a check number is, don't you?
+You do know what a check digit is, don't you?
 
 # Um... 
 I thought not. You may need this next hint.
 
-## Tell me where to find the guest's check number.
-On another island! Have a look at [this guide](HighSeas/index.md) for assistance with travelling the high seas.
+## Tell me where to find a guest's check digit.
+There's a bit of an adventure to go on first! Have a look at [this guide](HighSeas/index.md) for assistance with travelling the high seas.
 
-# I have a check number now.
-Return to the hotel and tell the receptionist your number when prompted.
+## I have seen unspeakable sights, and have a room card.
+Return to the hotel and check the guest book - your room card only has half of the solution.
 
-## What's my check number?
+## What am I looking for?
+Your card should say something like "Room Card for Room '49 of Hearts'".
 
-Madison F. Walker - Room Number ^[3 of Clubs] - Check Number ^[]
-Nora Belle Lewis - Room Number ^[69 of Diamonds] - Check Number ^[]
-Laverne McMorris - Room Number ^[10 of Hearts] - Check Number ^[]
-Ophelia Thompson - Room Number ^[36 of Spades] - Check Number ^[]
+So if you look in the guest book for the name staying in Room 49 of Hearts, you'll find the name you need to tell the receptionist.
+
+The check digit is ^[also in the card's item description.]
+
+# I'm in!
+At long last - now have a good look around!
+
+# Woah, a chart detailing all the fish and how to catch them?!
+Wow! If only you had something to trace it with...
+
+## Like what?
+Like the coloured pencils you got from the restaurant, and the paper you pulled from Atilantis' mummy!
+
+# Hooray, stealing!
+Now you have a diagram of all the fish and how to catch them, accessed by pressing TAB.
+
+See [this guide](fishing.md) for a text version of the diagram.

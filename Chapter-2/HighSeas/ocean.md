@@ -12,6 +12,8 @@ You know someone with a boat.
 You've got a whole ocean to explore - why not look around as you please?
 
 ## Can I get some island-specific guides?
+These guides should be followed in order.
 
 [Island A4](mushrooms.md)
-
+[Atilantis](atilantis.md)
+[Restaurant](restaurant.md)
