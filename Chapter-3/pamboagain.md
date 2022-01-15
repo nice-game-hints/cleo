@@ -1,5 +1,5 @@
 ---
-title: How to 
+title: How to escape the island
 keywords: cleo, Avery Allwick, cleo parrot, pambo island, A Coin on Pambo Island, how to get off pambo island
 order: 70
 ---
