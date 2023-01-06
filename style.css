@@ -8,3 +8,7 @@
 		background-image: url("https://nghprodmaina.blob.core.windows.net/ngh/cleo/Cabeca4.png");
 	}
 }
+
+.game-name-container {
+	max-width: 300px !important;
+}
